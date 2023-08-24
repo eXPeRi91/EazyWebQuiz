@@ -13,8 +13,7 @@ Before you get started, make sure you have the following installed:
 ## Installation
 
 1. Clone the repository (or download the ZIP file and extract it):
-
-git clone https://github.com/eXPeRi91/EazyWebQuiz.git
+- git clone https://github.com/eXPeRi91/EazyWebQuiz.git
 
 2. Import the SQL Database:
 - Create a new database named web_quiz in your MySQL server.
