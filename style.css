@@ -1,0 +1,113 @@
+/* Reset some default styles */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #222;
+    color: #fff;
+}
+
+/* Navigation */
+nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #333;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+/* Brighter color for menu items */
+nav a {
+    color: #00aaff; /* Change this color to your desired brighter color */
+    text-decoration: none;
+}
+
+/* Container */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* News box */
+.news-box {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 100px auto 20px; /* Adjust margin to position the news box */
+    text-align: center; /* Center-align the content */
+}
+
+/* Quiz */
+.quiz-container {
+    text-align: center;
+}
+
+.quiz-question {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.question-box {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.answer-options {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.answer-box {
+    background-color: #555;
+    padding: 15px;
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 0 10px;
+}
+
+.answer-box:hover,
+.answer-box:checked {
+    background-color: #007bff;
+}
+
+/* Buttons */
+button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Error message */
+.error {
+    color: #ff0000;
+    margin-top: 10px;
+}
