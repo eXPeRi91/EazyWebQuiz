@@ -31,12 +31,22 @@ Before you get started, make sure you have the following installed:
 - Open a web browser and navigate to the hosted URL of the website.
 - You should see the AvioTests website's homepage.
 
+## Features:
+
+- Dark Version only.
+- User Registration and Login: Users can create accounts and log in to the website. (Encrypted)
+- Quiz Taking: Users can take quizzes consisting of multiple-choice questions.
+- Quiz Categories: Quizzes are organized into different categories for easy navigation.
+- User Scores: The website tracks and displays user scores for each quiz.
+- News: Add news. (Only from DB)
+- Cookies: A basic implementation for Cookies consent.
+
 ## Contributing
-- Me @eXPeRi91
+- Me [eXPeRi91](https://github.com/eXPeRi91)
 
 ## License
 
-- This project is licensed under the MIT License - see the LICENSE file for details.
+- This project is licensed under the MIT License - see the [LICENSE](https://github.com/eXPeRi91/EazyWebQuiz/blob/master/LICENSE) file for details.
 
 ## Usage
 
