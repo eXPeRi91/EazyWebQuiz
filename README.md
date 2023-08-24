@@ -46,7 +46,7 @@ Before you get started, make sure you have the following installed:
 
 ## License
 
-- This project is licensed under the MIT License - see the [LICENSE](https://github.com/eXPeRi91/EazyWebQuiz/blob/master/LICENSE) file for details.
+- This project is licensed under the terms of the GNU Affero General Public License (AGPL), version 3.0 - see the [LICENSE](https://github.com/eXPeRi91/EazyWebQuiz/blob/master/LICENSE) file for details.
 
 ## Usage
 
