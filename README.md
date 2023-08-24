@@ -16,23 +16,23 @@ Before you get started, make sure you have the following installed:
 
 git clone https://github.com/eXPeRi91/EazyWebQuiz.git
 
-2    Import the SQL Database:
--        Create a new database named web_quiz in your MySQL server.
--        Import the database structure and data using the SQL script located in the sql directory.
+2. Import the SQL Database:
+- Create a new database named web_quiz in your MySQL server.
+- Import the database structure and data using the SQL script located in the sql directory.
 
-3    Configure Database Connection:
--        Open db_config.php.
--        Update the database credentials with your MySQL server details.
+3. Configure Database Connection:
+- Open db_config.php.
+- Update the database credentials with your MySQL server details.
 
-4    Start the Web Server:
--        Start your web server (e.g., Apache, Nginx).
--        Ensure that PHP is properly configured and enabled.
+4. Start the Web Server:
+- Start your web server (e.g., Apache, Nginx).
+- Ensure that PHP is properly configured and enabled.
 
-5    Access the Website:
--        Open a web browser and navigate to the hosted URL of the website.
--        You should see the AvioTests website's homepage.
+5. Access the Website:
+- Open a web browser and navigate to the hosted URL of the website.
+- You should see the AvioTests website's homepage.
 
-Usage
+## Usage
 
 -    Home Page (index.php): View a welcome message and links to various sections of the website.
 -    Quiz Page (quiz.php): Take a quiz by answering questions with multiple-choice options.
