@@ -31,6 +31,13 @@ Before you get started, make sure you have the following installed:
 - Open a web browser and navigate to the hosted URL of the website.
 - You should see the AvioTests website's homepage.
 
+## Contributing
+- Me @eXPeRi91
+
+## License
+
+- This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Usage
 
 -    Home Page (index.php): View a welcome message and links to various sections of the website.
