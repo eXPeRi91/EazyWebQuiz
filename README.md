@@ -17,25 +17,25 @@ Before you get started, make sure you have the following installed:
 git clone https://github.com/eXPeRi91/EazyWebQuiz.git
 
 2    Import the SQL Database:
-        Create a new database named web_quiz in your MySQL server.
-        Import the database structure and data using the SQL script located in the sql directory.
+-        Create a new database named web_quiz in your MySQL server.
+-        Import the database structure and data using the SQL script located in the sql directory.
 
 3    Configure Database Connection:
-        Open db_config.php.
-        Update the database credentials with your MySQL server details.
+-        Open db_config.php.
+-        Update the database credentials with your MySQL server details.
 
 4    Start the Web Server:
-        Start your web server (e.g., Apache, Nginx).
-        Ensure that PHP is properly configured and enabled.
+-        Start your web server (e.g., Apache, Nginx).
+-        Ensure that PHP is properly configured and enabled.
 
 5    Access the Website:
-        Open a web browser and navigate to the hosted URL of the website.
-        You should see the AvioTests website's homepage.
+-        Open a web browser and navigate to the hosted URL of the website.
+-        You should see the AvioTests website's homepage.
 
 Usage
 
-    Home Page (index.php): View a welcome message and links to various sections of the website.
-    Quiz Page (quiz.php): Take a quiz by answering questions with multiple-choice options.
-    Add Question Page (add_question.php): Add new quiz questions to the database.
-    Add Category Page (add_category.php): Add new quiz categories to the database.
-    Quiz Results Page (quiz_result.php): See the results of the quiz you've taken.
+-    Home Page (index.php): View a welcome message and links to various sections of the website.
+-    Quiz Page (quiz.php): Take a quiz by answering questions with multiple-choice options.
+-    Add Question Page (add_question.php): Add new quiz questions to the database.
+-    Add Category Page (add_category.php): Add new quiz categories to the database.
+-    Quiz Results Page (quiz_result.php): See the results of the quiz you've taken.
