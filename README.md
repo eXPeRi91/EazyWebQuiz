@@ -1,5 +1,5 @@
 # EazyWebQuiz
-A simple website to create and test you're knowage (No Question DB)
+A simple website to create and test your knowledge (No Question DB)
 
 ## Prerequisites
 
