@@ -1,0 +1,39 @@
+/* Adjust the navigation bar for mobile devices */
+@media screen and (max-width: 600px) {
+    nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        background-color: #333;
+        padding: 10px;
+        height: 100%; /* Make the navigation bar take full height of the screen */
+        width: 100%; /* Set width to 100% to cover the entire screen width */
+        text-align: center; /* Center-align menu items horizontally */
+        overflow-y: auto; /* Add scroll if menu items overflow */
+    }
+
+    nav ul {
+        display: flex;
+        flex-direction: column; /* Display menu items vertically */
+        align-items: center; /* Center-align menu items horizontally */
+    }
+
+    nav ul li {
+        margin-bottom: 10px; /* Add some space between menu items */
+    }
+
+    .container {
+        margin: 60px auto 20px; /* Center-align content and provide spacing */
+        max-width: 800px;
+    }
+
+    /* Adjust the news box to avoid overlap */
+    .news-box {
+        margin-top: 20px;
+    }
+
+    /* Adjust quiz select box */
+    .quiz-container select {
+        margin-top: 20px;
+    }
+}
